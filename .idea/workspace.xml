@@ -163,7 +163,14 @@
       <option name="presentableId" value="Default" />
       <updated>1593776151594</updated>
       <workItem from="1593776153723" duration="960000" />
-      <workItem from="1593777132686" duration="3568000" />
+      <workItem from="1593777132686" duration="4169000" />
+      <workItem from="1593852733801" duration="1091000" />
+      <workItem from="1593859958835" duration="600000" />
+      <workItem from="1594208732980" duration="1469000" />
+      <workItem from="1594292857284" duration="600000" />
+      <workItem from="1594565615125" duration="1199000" />
+      <workItem from="1594638724200" duration="3076000" />
+      <workItem from="1594656170052" duration="940000" />
     </task>
     <servers />
   </component>
@@ -183,6 +190,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1594658344001">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1600.0.1600.860@0.0.1920.1080" timestamp="1594658344001" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1593782503686">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
