@@ -1,6 +1,4 @@
-@extends('layouts.app')
-
-@section('content')
+<x-app>
     <header class="mb-6 relative">
         <img class="mb-2" src="https://www.canva.com/learn/wp-content/uploads/2015/03/beautiful-twitter-banners.jpg" alt="profile banner">
 
@@ -32,4 +30,4 @@
     @include ('_timeline', [
         'tweets' => $user->tweets
     ])
-@endsection
+</x-app>
